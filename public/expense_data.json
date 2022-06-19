@@ -1,0 +1,455 @@
+{
+    "data": [
+        {
+            "username": "Salma.Runte",
+            "date": "2022-06-11T17:33:53.534Z",
+            "expenses": 4444.99
+        },
+        {
+            "username": "Ardith_Baumbach90",
+            "date": "2022-06-17T15:12:56.849Z",
+            "expenses": 3306.93
+        },
+        {
+            "username": "Ethyl20",
+            "date": "2022-05-25T21:00:57.094Z",
+            "expenses": 3231.86
+        },
+        {
+            "username": "Angie73",
+            "date": "2022-06-10T13:28:26.102Z",
+            "expenses": 1735.63
+        },
+        {
+            "username": "Royal.Walter5",
+            "date": "2022-06-02T07:45:52.563Z",
+            "expenses": 2710.06
+        },
+        {
+            "username": "Bridget_Friesen",
+            "date": "2022-06-18T01:51:12.783Z",
+            "expenses": 4040.34
+        },
+        {
+            "username": "Leonardo4",
+            "date": "2022-05-24T19:17:24.324Z",
+            "expenses": 3081.21
+        },
+        {
+            "username": "Willow.Olson",
+            "date": "2022-06-13T17:22:24.536Z",
+            "expenses": 525.9
+        },
+        {
+            "username": "Carlos39",
+            "date": "2022-05-31T03:23:28.550Z",
+            "expenses": 920.96
+        },
+        {
+            "username": "Evalyn47",
+            "date": "2022-06-15T22:39:49.843Z",
+            "expenses": 4508.83
+        },
+        {
+            "username": "Marvin.Hartmann",
+            "date": "2022-06-04T05:45:53.403Z",
+            "expenses": 2255.53
+        },
+        {
+            "username": "Murl.MacGyver17",
+            "date": "2022-05-12T17:24:41.297Z",
+            "expenses": 3373.9
+        },
+        {
+            "username": "Jon.Torphy2",
+            "date": "2022-05-24T08:27:31.375Z",
+            "expenses": 2235.17
+        },
+        {
+            "username": "Brittany.Orn21",
+            "date": "2022-06-16T15:30:52.904Z",
+            "expenses": 1620.16
+        },
+        {
+            "username": "Sam_Walter8",
+            "date": "2022-06-13T04:46:40.796Z",
+            "expenses": 1249.7
+        },
+        {
+            "username": "Jaquelin.Streich",
+            "date": "2022-05-02T09:39:16.052Z",
+            "expenses": 881.8
+        },
+        {
+            "username": "Isabel.Blanda38",
+            "date": "2022-05-23T05:43:39.576Z",
+            "expenses": 2905.71
+        },
+        {
+            "username": "Jaida_Schowalter90",
+            "date": "2022-05-18T02:25:25.935Z",
+            "expenses": 1648.8
+        },
+        {
+            "username": "Cloyd_Welch26",
+            "date": "2022-06-13T19:03:08.551Z",
+            "expenses": 1507.57
+        },
+        {
+            "username": "Elvie17",
+            "date": "2022-05-21T06:54:15.742Z",
+            "expenses": 4157.3
+        },
+        {
+            "username": "Daren.Hansen92",
+            "date": "2022-06-10T06:43:39.450Z",
+            "expenses": 4041.85
+        },
+        {
+            "username": "Bryon_Mayer",
+            "date": "2022-06-02T00:37:21.973Z",
+            "expenses": 3191.28
+        },
+        {
+            "username": "Jules.Keebler",
+            "date": "2022-06-01T17:03:03.143Z",
+            "expenses": 768.66
+        },
+        {
+            "username": "Lulu.Hauck59",
+            "date": "2022-06-14T04:34:14.856Z",
+            "expenses": 3580.63
+        },
+        {
+            "username": "Watson.Yost44",
+            "date": "2022-06-17T00:57:29.560Z",
+            "expenses": 236.84
+        },
+        {
+            "username": "Odessa_Mertz",
+            "date": "2022-05-25T07:33:37.133Z",
+            "expenses": 2978.18
+        },
+        {
+            "username": "Kameron.Crooks",
+            "date": "2022-05-22T17:01:48.198Z",
+            "expenses": 161.08
+        },
+        {
+            "username": "Nathaniel_Aufderhar",
+            "date": "2022-05-11T19:35:05.165Z",
+            "expenses": 4460.41
+        },
+        {
+            "username": "Gustave.Smith",
+            "date": "2022-06-05T12:03:34.219Z",
+            "expenses": 4235.61
+        },
+        {
+            "username": "Green_Kshlerin65",
+            "date": "2022-06-13T06:55:31.378Z",
+            "expenses": 4021.54
+        },
+        {
+            "username": "Daphne_Davis56",
+            "date": "2022-06-02T23:16:53.399Z",
+            "expenses": 2911.7
+        },
+        {
+            "username": "Karley50",
+            "date": "2022-06-06T06:26:06.294Z",
+            "expenses": 1167.34
+        },
+        {
+            "username": "Jeramy.Cartwright26",
+            "date": "2022-06-14T17:41:57.992Z",
+            "expenses": 3448.65
+        },
+        {
+            "username": "Mariela10",
+            "date": "2022-05-08T03:42:49.254Z",
+            "expenses": 3706.09
+        },
+        {
+            "username": "Emory_Quigley",
+            "date": "2022-06-16T09:44:27.267Z",
+            "expenses": 4045.22
+        },
+        {
+            "username": "Victoria64",
+            "date": "2022-05-15T12:11:41.481Z",
+            "expenses": 528.87
+        },
+        {
+            "username": "Freeman_Rutherford12",
+            "date": "2022-06-15T00:26:41.193Z",
+            "expenses": 2633.34
+        },
+        {
+            "username": "Lambert.Schulist",
+            "date": "2022-06-11T14:39:47.554Z",
+            "expenses": 596.54
+        },
+        {
+            "username": "Patsy_Veum10",
+            "date": "2022-05-13T14:19:18.314Z",
+            "expenses": 2992.89
+        },
+        {
+            "username": "Wilford.Marvin39",
+            "date": "2022-06-15T09:20:54.725Z",
+            "expenses": 3241.52
+        },
+        {
+            "username": "Helena.Marquardt12",
+            "date": "2022-06-07T02:17:31.222Z",
+            "expenses": 2091.72
+        },
+        {
+            "username": "Cassandra_Beer73",
+            "date": "2022-06-05T06:07:53.456Z",
+            "expenses": 3936.64
+        },
+        {
+            "username": "Noah17",
+            "date": "2022-05-02T15:00:14.595Z",
+            "expenses": 4287.18
+        },
+        {
+            "username": "Josianne_Steuber",
+            "date": "2022-06-15T16:48:38.511Z",
+            "expenses": 251.08
+        },
+        {
+            "username": "Sincere50",
+            "date": "2022-05-24T14:36:19.031Z",
+            "expenses": 3160.89
+        },
+        {
+            "username": "Fred_Powlowski",
+            "date": "2022-05-03T01:45:42.623Z",
+            "expenses": 2053.85
+        },
+        {
+            "username": "Birdie_Dietrich",
+            "date": "2022-05-23T16:02:03.652Z",
+            "expenses": 1943.82
+        },
+        {
+            "username": "Ursula.Kunze79",
+            "date": "2022-06-10T09:55:13.225Z",
+            "expenses": 2567.1
+        },
+        {
+            "username": "Corbin_Hermiston",
+            "date": "2022-05-03T23:41:22.478Z",
+            "expenses": 2293.45
+        },
+        {
+            "username": "Marley.Bartell",
+            "date": "2022-06-14T14:29:24.382Z",
+            "expenses": 3500.32
+        },
+        {
+            "username": "Kiana.Hickle90",
+            "date": "2022-06-14T10:40:54.507Z",
+            "expenses": 3192.11
+        },
+        {
+            "username": "Carlo.Ullrich92",
+            "date": "2022-06-18T06:41:46.821Z",
+            "expenses": 4547.73
+        },
+        {
+            "username": "Jerrod_Orn",
+            "date": "2022-06-15T12:37:15.392Z",
+            "expenses": 2671.86
+        },
+        {
+            "username": "Akeem.Bogan43",
+            "date": "2022-06-11T16:35:22.278Z",
+            "expenses": 1808.46
+        },
+        {
+            "username": "Sandra.Crona54",
+            "date": "2022-06-08T23:43:02.984Z",
+            "expenses": 2934.96
+        },
+        {
+            "username": "Elbert51",
+            "date": "2022-06-14T16:55:04.589Z",
+            "expenses": 2220.38
+        },
+        {
+            "username": "Elmore.Kerluke",
+            "date": "2022-05-15T08:34:09.023Z",
+            "expenses": 809.67
+        },
+        {
+            "username": "Rolando_Bauch2",
+            "date": "2022-06-02T18:36:57.090Z",
+            "expenses": 2413.85
+        },
+        {
+            "username": "Casey_Collier74",
+            "date": "2022-06-04T02:16:57.370Z",
+            "expenses": 1473.89
+        },
+        {
+            "username": "Cletus14",
+            "date": "2022-05-22T03:17:49.086Z",
+            "expenses": 4274.18
+        },
+        {
+            "username": "Rogers41",
+            "date": "2022-06-06T15:30:08.687Z",
+            "expenses": 1558.67
+        },
+        {
+            "username": "Issac_Murazik",
+            "date": "2022-06-09T02:06:38.037Z",
+            "expenses": 2507.1
+        },
+        {
+            "username": "Rasheed_Padberg3",
+            "date": "2022-06-04T19:15:32.792Z",
+            "expenses": 1803.33
+        },
+        {
+            "username": "Nicole_Pfannerstill",
+            "date": "2022-06-12T03:59:55.804Z",
+            "expenses": 3584.05
+        },
+        {
+            "username": "Kirsten56",
+            "date": "2022-06-04T07:34:16.049Z",
+            "expenses": 944.7
+        },
+        {
+            "username": "Alek49",
+            "date": "2022-06-14T20:25:32.419Z",
+            "expenses": 2423.12
+        },
+        {
+            "username": "Vilma69",
+            "date": "2022-06-05T06:13:49.180Z",
+            "expenses": 1798.19
+        },
+        {
+            "username": "Savanna_Harvey52",
+            "date": "2022-06-18T04:53:51.444Z",
+            "expenses": 195.67
+        },
+        {
+            "username": "George.Abbott",
+            "date": "2022-06-09T22:19:35.036Z",
+            "expenses": 769.38
+        },
+        {
+            "username": "Laney.Rodriguez",
+            "date": "2022-06-18T12:55:34.369Z",
+            "expenses": 1340.7
+        },
+        {
+            "username": "Jaquelin_Block",
+            "date": "2022-06-14T04:50:35.652Z",
+            "expenses": 2553.14
+        },
+        {
+            "username": "Mireille2",
+            "date": "2022-06-17T17:17:18.900Z",
+            "expenses": 433.81
+        },
+        {
+            "username": "Jon_Reichert85",
+            "date": "2022-06-02T08:08:21.888Z",
+            "expenses": 4475.35
+        },
+        {
+            "username": "Jayson.Rohan",
+            "date": "2022-06-14T08:47:37.346Z",
+            "expenses": 1242.52
+        },
+        {
+            "username": "Jasper66",
+            "date": "2022-06-10T07:41:27.602Z",
+            "expenses": 2171.75
+        },
+        {
+            "username": "Golda17",
+            "date": "2022-06-17T13:56:15.356Z",
+            "expenses": 4100.54
+        },
+        {
+            "username": "Gilda_Koch",
+            "date": "2022-06-15T14:09:29.692Z",
+            "expenses": 2620.42
+        },
+        {
+            "username": "Darrell.Pacocha24",
+            "date": "2022-05-24T23:43:49.216Z",
+            "expenses": 649.13
+        },
+        {
+            "username": "Joanne.Medhurst98",
+            "date": "2022-06-05T19:51:03.494Z",
+            "expenses": 250.41
+        },
+        {
+            "username": "Cecelia59",
+            "date": "2022-06-05T19:51:54.734Z",
+            "expenses": 1331.7
+        },
+        {
+            "username": "Marilie70",
+            "date": "2022-06-01T12:26:56.658Z",
+            "expenses": 108.98
+        },
+        {
+            "username": "Savannah.Daugherty18",
+            "date": "2022-06-10T05:34:28.842Z",
+            "expenses": 778.93
+        },
+        {
+            "username": "Tyshawn.Lang6",
+            "date": "2022-06-15T04:41:14.281Z",
+            "expenses": 820.14
+        },
+        {
+            "username": "Alexane70",
+            "date": "2022-06-13T15:45:48.338Z",
+            "expenses": 3146.56
+        },
+        {
+            "username": "Vincenzo87",
+            "date": "2022-06-07T23:41:46.329Z",
+            "expenses": 819.19
+        },
+        {
+            "username": "Glen_Fadel50",
+            "date": "2022-06-11T10:37:10.850Z",
+            "expenses": 3355.36
+        },
+        {
+            "username": "Daija17",
+            "date": "2022-05-28T15:03:53.951Z",
+            "expenses": 4756.02
+        },
+        {
+            "username": "Danyka_Abshire",
+            "date": "2022-06-04T09:40:05.642Z",
+            "expenses": 4279.05
+        },
+        {
+            "username": "Napoleon_Huels",
+            "date": "2022-06-12T07:40:32.274Z",
+            "expenses": 781.98
+        },
+        {
+            "username": "Marion.Lind",
+            "date": "2022-06-03T05:21:37.199Z",
+            "expenses": 4635.05
+        }
+    ],
+    "processTime": "0.003 sec"
+}

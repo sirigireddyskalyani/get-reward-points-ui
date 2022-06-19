@@ -13,6 +13,11 @@ export const expensesSlice = createSlice({
         data: [...state.data, action.payload],
       };
     },
+    expensesFileData: (state, action) => {
+      return {
+        data: [...state.data, ...action.payload],
+      };
+    },
   },
 });
 
@@ -33,6 +38,16 @@ export const addExpense = (record) => {
         rewardPoints: calcRewardPoints(record.expenses),
       })
     );
+};
+
+export const expensesFileData = (record) => {
+  const expenses = [];
+  record.data.forEach((rec) => {
+    expenses.push({ ...rec, rewardPoints: calcRewardPoints(rec.expenses) });
+  });
+
+  return (dispatch) =>
+    dispatch(expensesSlice.actions.expensesFileData(expenses));
 };
 
 export default expensesSlice.reducer;
