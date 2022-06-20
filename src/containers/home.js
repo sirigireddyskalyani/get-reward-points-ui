@@ -16,6 +16,7 @@ const Home = () => {
             <div className="h-full flex justify-center md:justify-end">
               <AddExpenseModal />
               <button
+                data-testid="upload-bulk-expense-btn"
                 className="btn btn-sm btn-warning ml-1"
                 onClick={() => navigate("upload")}
               >

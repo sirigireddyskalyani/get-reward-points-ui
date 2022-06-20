@@ -8,14 +8,14 @@ const validate = (values) => {
 
   if (!values.username) {
     errors.username = "Please add name";
-  } else if (!values.expenses || values.expenses === 0) {
+  } else if (!values.expenses) {
     errors.expenses = "Please add valid expense";
   }
 
   return errors;
 };
 
-const ModalWindow = () => {
+const AddExpense = () => {
   const dispatch = useDispatch();
   const [showModal, setShowModal] = useState("");
   const { errors, handleChange, handleBlur, handleSubmit, isValid } =
@@ -35,6 +35,7 @@ const ModalWindow = () => {
   return (
     <>
       <label
+        data-testid="add-expense-btn"
         className="btn btn-sm btn-info modal-button"
         onClick={() => setShowModal("modal-open")}
       >
@@ -48,6 +49,7 @@ const ModalWindow = () => {
               <h2 className="font-bold text-lg">Add Expense</h2>
               <label
                 onClick={() => setShowModal("modal-close")}
+                data-testid="add-expense-modal-close-btn"
                 className="btn btn-sm btn-circle absolute right-2 top-2"
               >
                 ✕
@@ -62,6 +64,7 @@ const ModalWindow = () => {
                 type="text"
                 id="username"
                 name="username"
+                data-testid="add-expense-username-input"
                 placeholder="Name ex..customer name"
                 className="input input-bordered w-full"
                 onChange={handleChange}
@@ -113,7 +116,12 @@ const ModalWindow = () => {
               disabled={Object.keys(errors).length > 0 || !isValid}
               onClick={handleSubmit}
             >
-              <button className="btn btn-sm btn-success m-2">Submit</button>
+              <button
+                data-testid="add-expense-submit-btn"
+                className="btn btn-sm btn-success m-2"
+              >
+                Submit
+              </button>
             </div>
           </div>
         </div>
@@ -122,4 +130,4 @@ const ModalWindow = () => {
   );
 };
 
-export default ModalWindow;
+export default AddExpense;

@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Upload Container Snapshot Upload container rendered successfully 1`] = `
+<div
+  className="m-4 flex flex-col items-center justify-center"
+>
+  <div
+    className="card w-full bg-base-100 shadow-xl"
+  >
+    <div
+      className="card-body"
+    >
+      <div
+        className="flex flex-row"
+      >
+        <button
+          className="btn btn-sm m-2 w-16"
+          data-testid="upload-back-btn"
+          onClick={[Function]}
+        >
+          Back
+        </button>
+        <h2
+          className="card-title"
+        >
+          Upload
+        </h2>
+      </div>
+      <div
+        className="flex flex-col mt-4"
+      >
+        <div
+          className="w-full m-1 flex justify-end"
+        >
+          <a
+            className="btn btn-link btn-sm"
+            download={true}
+            href="./expense_data.json"
+          >
+            Download Sample JSON
+          </a>
+        </div>
+        <div
+          className="w-full m-1"
+        >
+          <label
+            className="form-label inline-block mb-2"
+            htmlFor="formFile"
+          >
+            Upload Expenses JSON file
+          </label>
+          <input
+            accept=".json"
+            className="form-control block w-full px-3 py-1.5 text-base font-normal bg-white bg-clip-padding border border-solid border-gray-300 rounded transition ease-in-out m-0 focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none"
+            data-testid="expenses-json-uploader"
+            id="formFile"
+            onChange={[Function]}
+            type="file"
+          />
+        </div>
+        <div
+          className="w-full m-1 flex justify-center"
+        >
+          <button
+            className="btn btn-sm btn-success m-2 w-24"
+            data-testid="upload-submit-btn"
+            onClick={[Function]}
+          >
+            Submit
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

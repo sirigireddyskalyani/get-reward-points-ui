@@ -8,7 +8,7 @@ function AppNavigator() {
   return (
     <>
         <HorizontalNavigator />
-        <div className="container">
+        <div className="container m-0 p-0 min-w-full min-h-full">
           <div className="min-w-full min-h-full bg-gray-200 p-4">
             <Routes>
               <Route path="/" element={<Home />} />
