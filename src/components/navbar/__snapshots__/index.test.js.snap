@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HorizontalNavigator Component Snapshot HorizontalNavigator component rendered successfully 1`] = `
+<div
+  className="navbar bg-base-100"
+>
+  <div
+    className="flex-1"
+  >
+    <a
+      className="btn btn-ghost normal-case text-xl"
+      href="/"
+    >
+      Get Reward Points
+    </a>
+  </div>
+</div>
+`;

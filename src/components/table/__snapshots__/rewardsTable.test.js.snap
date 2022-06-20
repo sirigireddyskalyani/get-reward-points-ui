@@ -1,0 +1,44 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`RewardsTable Component Snapshot RewardsTable component rendered successfully 1`] = `
+<div
+  className="overflow-auto min-w-full min-h-full"
+>
+  <table
+    className="table min-w-full min-h-full"
+  >
+    <thead>
+      <tr>
+        <th />
+        <th>
+          User Name
+        </th>
+        <th>
+          Description
+        </th>
+        <th>
+          Expense
+        </th>
+        <th>
+          Reward Points
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td
+          colSpan={5}
+        >
+          <div
+            className="w-100 h-100 flex justify-center text-red"
+          >
+            <h3>
+              No Records Found
+            </h3>
+          </div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;

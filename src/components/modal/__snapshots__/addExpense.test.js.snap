@@ -1,0 +1,129 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`HorizontalNavigator Component Snapshot AddExpense component rendered successfully 1`] = `
+Array [
+  <label
+    className="btn btn-sm btn-info modal-button"
+    data-testid="add-expense-btn"
+    onClick={[Function]}
+  >
+    Add Expense
+  </label>,
+  <div
+    className="modal modal-bottom  sm:modal-middle"
+  >
+    <div
+      className="modal-box"
+    >
+      <div
+        className="relative"
+      >
+        <div
+          className="flex justify-between"
+        >
+          <h2
+            className="font-bold text-lg"
+          >
+            Add Expense
+          </h2>
+          <label
+            className="btn btn-sm btn-circle absolute right-2 top-2"
+            data-testid="add-expense-modal-close-btn"
+            onClick={[Function]}
+          >
+            ✕
+          </label>
+        </div>
+        <div
+          className="form-control w-full mt-2"
+        >
+          <label
+            className="label"
+          >
+            <span
+              className="label-text"
+            >
+              Name
+            </span>
+            <span
+              className="label-text-alt text-red-600"
+            >
+              *
+            </span>
+          </label>
+          <input
+            className="input input-bordered w-full"
+            data-testid="add-expense-username-input"
+            id="username"
+            name="username"
+            onBlur={[Function]}
+            onChange={[Function]}
+            placeholder="Name ex..customer name"
+            type="text"
+          />
+        </div>
+        <div
+          className="form-control w-full mt-2"
+        >
+          <label
+            className="label"
+          >
+            <span
+              className="label-text"
+            >
+              Description
+            </span>
+          </label>
+          <textarea
+            className="textarea textarea-bordered"
+            id="description"
+            name="description"
+            onBlur={[Function]}
+            onChange={[Function]}
+            placeholder="About expense details"
+          />
+        </div>
+        <div
+          className="form-control w-full mt-2"
+        >
+          <label
+            className="label"
+          >
+            <span
+              className="label-text"
+            >
+              Amount
+            </span>
+            <span
+              className="label-text-alt text-red-600"
+            >
+              *
+            </span>
+          </label>
+          <input
+            className="input input-bordered w-full"
+            id="expenses"
+            name="expenses"
+            onBlur={[Function]}
+            onChange={[Function]}
+            placeholder="Amount"
+            type="number"
+          />
+        </div>
+        <div
+          className="flex justify-end m-2"
+          disabled={false}
+          onClick={[Function]}
+        >
+          <button
+            className="btn btn-sm btn-success m-2"
+            data-testid="add-expense-submit-btn"
+          >
+            Submit
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;

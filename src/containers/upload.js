@@ -24,6 +24,7 @@ const Upload = () => {
   });
 
   const handleOnFileUpload = (event) => {
+    console.log(event.currentTarget.files[0])
     const fileReader = new FileReader();
     fileReader.readAsText(event.currentTarget.files[0], "UTF-8");
     fileReader.onload = (e) => {
@@ -48,6 +49,7 @@ const Upload = () => {
         <div className="card-body">
           <div className="flex flex-row">
             <button
+              data-testid="upload-back-btn"
               className="btn btn-sm m-2 w-16"
               onClick={() => navigate("/")}
             >
@@ -73,6 +75,7 @@ const Upload = () => {
                 className="form-control block w-full px-3 py-1.5 text-base font-normal bg-white bg-clip-padding border border-solid border-gray-300 rounded transition ease-in-out m-0 focus:text-gray-700 focus:bg-white focus:border-blue-600 focus:outline-none"
                 type="file"
                 id="formFile"
+                data-testid="expenses-json-uploader"
                 onChange={handleOnFileUpload}
                 accept=".json"
               />
@@ -84,6 +87,7 @@ const Upload = () => {
             </div>
             <div className="w-full m-1 flex justify-center">
               <button
+                data-testid="upload-submit-btn"
                 className="btn btn-sm btn-success m-2 w-24"
                 onClick={handleSubmit}
               >

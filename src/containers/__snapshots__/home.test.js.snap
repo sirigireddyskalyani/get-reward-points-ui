@@ -1,0 +1,199 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home Container Snapshot Home container rendered successfully 1`] = `
+<div
+  className="min-w-full min-h-full card bg-base-100 shadow-xl"
+>
+  <div
+    className="card-body"
+  >
+    <div
+      className="grid grid-rows-2 grid-cols-1 md:grid-rows-1 md:grid-cols-2"
+    >
+      <h2
+        className="card-title"
+      >
+        Rewards
+      </h2>
+      <div
+        className="h-full flex justify-center md:justify-end"
+      >
+        <label
+          className="btn btn-sm btn-info modal-button"
+          data-testid="add-expense-btn"
+          onClick={[Function]}
+        >
+          Add Expense
+        </label>
+        <div
+          className="modal modal-bottom  sm:modal-middle"
+        >
+          <div
+            className="modal-box"
+          >
+            <div
+              className="relative"
+            >
+              <div
+                className="flex justify-between"
+              >
+                <h2
+                  className="font-bold text-lg"
+                >
+                  Add Expense
+                </h2>
+                <label
+                  className="btn btn-sm btn-circle absolute right-2 top-2"
+                  data-testid="add-expense-modal-close-btn"
+                  onClick={[Function]}
+                >
+                  ✕
+                </label>
+              </div>
+              <div
+                className="form-control w-full mt-2"
+              >
+                <label
+                  className="label"
+                >
+                  <span
+                    className="label-text"
+                  >
+                    Name
+                  </span>
+                  <span
+                    className="label-text-alt text-red-600"
+                  >
+                    *
+                  </span>
+                </label>
+                <input
+                  className="input input-bordered w-full"
+                  data-testid="add-expense-username-input"
+                  id="username"
+                  name="username"
+                  onBlur={[Function]}
+                  onChange={[Function]}
+                  placeholder="Name ex..customer name"
+                  type="text"
+                />
+              </div>
+              <div
+                className="form-control w-full mt-2"
+              >
+                <label
+                  className="label"
+                >
+                  <span
+                    className="label-text"
+                  >
+                    Description
+                  </span>
+                </label>
+                <textarea
+                  className="textarea textarea-bordered"
+                  id="description"
+                  name="description"
+                  onBlur={[Function]}
+                  onChange={[Function]}
+                  placeholder="About expense details"
+                />
+              </div>
+              <div
+                className="form-control w-full mt-2"
+              >
+                <label
+                  className="label"
+                >
+                  <span
+                    className="label-text"
+                  >
+                    Amount
+                  </span>
+                  <span
+                    className="label-text-alt text-red-600"
+                  >
+                    *
+                  </span>
+                </label>
+                <input
+                  className="input input-bordered w-full"
+                  id="expenses"
+                  name="expenses"
+                  onBlur={[Function]}
+                  onChange={[Function]}
+                  placeholder="Amount"
+                  type="number"
+                />
+              </div>
+              <div
+                className="flex justify-end m-2"
+                disabled={false}
+                onClick={[Function]}
+              >
+                <button
+                  className="btn btn-sm btn-success m-2"
+                  data-testid="add-expense-submit-btn"
+                >
+                  Submit
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <button
+          className="btn btn-sm btn-warning ml-1"
+          data-testid="upload-bulk-expense-btn"
+          onClick={[Function]}
+        >
+          Upload Bulk expense
+        </button>
+      </div>
+    </div>
+    <div
+      className="min-w-full min-h-full"
+    >
+      <div
+        className="overflow-auto min-w-full min-h-full"
+      >
+        <table
+          className="table min-w-full min-h-full"
+        >
+          <thead>
+            <tr>
+              <th />
+              <th>
+                User Name
+              </th>
+              <th>
+                Description
+              </th>
+              <th>
+                Expense
+              </th>
+              <th>
+                Reward Points
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td
+                colSpan={5}
+              >
+                <div
+                  className="w-100 h-100 flex justify-center text-red"
+                >
+                  <h3>
+                    No Records Found
+                  </h3>
+                </div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+`;
