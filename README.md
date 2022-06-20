@@ -2,13 +2,16 @@
 Myself Kalyani, I am a product-focused javascript fullstack developer, for more details check my profile @ https://kalyani.vercel.app/
 
 # get-reward-points-ui
-This is a sample UI portal developed to showcase my, Front-End Development skills. The application has deployed at vercel cloud platform.
+This is a sample UI portal developed to showcase my Front-End Development skills. The application has deployed at vercel cloud platform.
 Please check live preview at - https://get-reward-points-ui.vercel.app/
 ### By default application loads rewards grid view.
 ![picture alt](https://raw.githubusercontent.com/sirigireddyskalyani/get-reward-points-ui/main/showcase/defaultView.png)
-### Application allows to add an expense and the app caluclates reward points for given amount.
+### On click of "ADD EXPENSE" button, Application allows to add single expense and then app caluclates reward points for given amount.
 ![picture alt](https://raw.githubusercontent.com/sirigireddyskalyani/get-reward-points-ui/main/showcase/addExpensesView.png)
-### Application allows to upload bulk expenses details and app calculates reward points of each record.
+### On click of "UPLOAD BULK EXPENSE" button,
+* Application allows to upload bulk expenses details and then app calculates reward points of each record. 
+* To download EXPENSES sample JSON file, click on the DOWNLOAD SAMPLE JSON link.
+* You can upload the downloaded JSON file by choosing that file and click on submit button.
 ![picture alt](https://raw.githubusercontent.com/sirigireddyskalyani/get-reward-points-ui/main/showcase/uploadExpenseListView.png)
 ![picture alt](https://raw.githubusercontent.com/sirigireddyskalyani/get-reward-points-ui/main/showcase/dataView.png)
 
